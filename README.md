@@ -1,4 +1,4 @@
-# Gerenciamento de Usuário 👤
+# Sistema de Gerenciamento de Usuários – API REST 👤
 
 O **Gerenciamento de Usuário** é uma **API REST CRUD** desenvolvida em **Java** com foco na manipulação de **dados de usuários** dentro de um sistema backend.  
 O projeto centraliza as operações de **criação**, **leitura**, **atualização** e **exclusão** de usuários, oferecendo uma estrutura organizada e fácil de entender.
